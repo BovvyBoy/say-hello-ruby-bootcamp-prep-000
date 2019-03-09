@@ -13,5 +13,5 @@ describe "say_hello" do
   end
 end
 def say_hello(name="ruby programmer", language="ruby")
-  puts "hello, #{name}"
+  puts "hello, #{name}. You rock at #{}
 end
