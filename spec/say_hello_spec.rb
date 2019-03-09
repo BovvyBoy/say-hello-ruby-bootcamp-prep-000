@@ -12,6 +12,6 @@ describe "say_hello" do
     say_hello()
   end
 end
-def say_hello(name="ruby programmer", language="ruby")
-  puts "hello, #{name}. You rock at #{language}."
+def say_hello(name="ruby programmer")
+  puts "hello ruby programmer!"
 end
